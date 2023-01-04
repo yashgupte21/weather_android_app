@@ -1,9 +1,11 @@
 # weather_android_app
 Open Weather Android Application - Java
 
-# Weather Android Application - * Yash Gupte*
+# Weather Prediction Android Application - * Yash Gupte*
 
-**Yash Tip Calculator** is a tip calculator application for iOS.
+**Weather Prediction ** is a andriod application developed using Java to present weather forecast on hourly, weekly and daily basis.
+
+
 
 Here's a walkthrough of implemention:
 
