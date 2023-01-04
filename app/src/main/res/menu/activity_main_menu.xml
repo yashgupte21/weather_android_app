@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/toggle_units_menu"
+        android:icon="@drawable/units_f"
+        android:title="@string/toggle_units_menu"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/daily_forecast_menu"
+        android:icon="@drawable/daily"
+        android:title="@string/daily_forecast_menu"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/change_location_menu"
+        android:icon="@drawable/location"
+        android:title="@string/change_location_menu"
+        app:showAsAction="always" />
+</menu>
