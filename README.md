@@ -9,4 +9,4 @@ Open Weather Android Application - Java
 
 Here's a walkthrough of implemention:
 
-<img src='http://g.recordit.co/anFb1MIPzF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://g.recordit.co/anFb1MIPzF.gif](http://g.recordit.co/anFb1MIPzF.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
